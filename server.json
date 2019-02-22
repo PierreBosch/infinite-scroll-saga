@@ -1,0 +1,228 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 4
+    },
+    {
+      "id": 5,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "id": 6,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 2
+    },
+    {
+      "id": 7,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 3
+    },
+    {
+      "id": 8,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 4
+    },
+    {
+      "id": 9,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "id": 10,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 2
+    },
+    {
+      "id": 11,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 3
+    },
+    {
+      "id": 12,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 4
+    },
+    {
+      "id": 13,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 1
+    },
+    {
+      "id": 14,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 2
+    },
+    {
+      "id": 15,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 3
+    },
+    {
+      "id": 16,
+      "description": "Isotretinoina 400 mg - Generico",
+      "price": 35.9,
+      "priceWithDiscount": 25.9,
+      "thumbnail": "https://www.medicamentosbrasil.com.br/cmsstatic/product/24551/mockup_imagem.png?browse",
+      "discountPercent": 10,
+      "qty": 200,
+      "isActive": 1,
+      "priority": 4
+    }
+  ],
+
+  "banners": {
+    "1025": [
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1362/slide_1640/anthelios_0402.png"
+      },
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1328/slide_1643/larochebbblur_0701.png"
+      },
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1362/slide_1639/lifararnica_1102.jpg"
+      }
+    ],
+    "1024": [
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1362/slide_1640/anthelios_0402_t.png"
+      },
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1328/slide_1643/larochebbblur_0701_t.png"
+      },
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1362/slide_1639/lifararnica_1102_t.jpg"
+      }
+    ],
+    "767": [
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1362/slide_1640/anthelios_0402_m_h.png"
+      },
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1328/slide_1643/larochebbblur_0701_m_h.png"
+      },
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1362/slide_1639/lifararnica_1102_m_h.jpg"
+      }
+    ],
+
+    "480": [
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1362/slide_1640/anthelios_0402_m.png"
+      },
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1328/slide_1643/larochebbblur_0701_m.png"
+      },
+      {
+        "img_url": "https://cdn1.staticpanvel.com.br/banners/banner_1362/slide_1639/lifararnica_1102_m.jpg"
+      }
+    ]
+  }
+}
