@@ -1,38 +1,39 @@
 import React, { Component } from "react";
 import {
-  Container,
   MainTitle,
   ProductContainer,
   Product,
   LoaderContainer
 } from "./styles";
-
-import InfiniteScroll from "react-infinite-scroller";
-import Loader from "../Loader";
+import InfiniteScroll from "react-infinite-scroll-component";
+import Loader from "react-loader-spinner";
 
 import { bindActionCreators } from "redux";
 import { Creators as ProductsActions } from "../../store/ducks/products";
 import { connect } from "react-redux";
 
 class ProductList extends Component {
+  componentDidMount() {
+    this.props.getProductsRequest();
+  }
   loadMore() {
     setTimeout(() => {
       this.props.getProductsRequest();
-    }, 2000);
+    }, 1500);
   }
 
   render() {
     return (
       <div className="App">
         <InfiniteScroll
-          loadMore={this.loadMore.bind(this)}
+          dataLength={this.props.products.data.length}
+          next={this.loadMore.bind(this)}
           hasMore={this.props.products.hasMore}
           loader={
             <LoaderContainer>
-              <Loader className="loader" />
+              <Loader type="Oval" color="#FF0000" height={25} width={25} />
             </LoaderContainer>
           }
-          useWindow={true}
         >
           <MainTitle>
             <h2>

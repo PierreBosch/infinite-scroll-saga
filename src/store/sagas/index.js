@@ -1,4 +1,4 @@
-import { all, takeLatest, take } from "redux-saga/effects";
+import { all, takeLatest } from "redux-saga/effects";
 
 import { Types as ProductsTypes } from "../ducks/products";
 
